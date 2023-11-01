@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\bin\Debug\Senha.exe.config
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\bin\Debug\Senha.exe
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\bin\Debug\Senha.pdb
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\obj\Debug\Senha.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\obj\Debug\Senha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\obj\Debug\Senha.exe
+C:\Users\Aluno\Desktop\Atividades\Atividades\Senha\obj\Debug\Senha.pdb

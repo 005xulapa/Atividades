@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idade", "Idade\Idade.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\Temperatura.csproj", "{BBFD57ED-6B39-49B2-A666-86D2833F3360}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senha", "Senha\Senha.csproj", "{9C6E0FB9-7038-4C2C-9EF6-9CC453121CEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BBFD57ED-6B39-49B2-A666-86D2833F3360}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBFD57ED-6B39-49B2-A666-86D2833F3360}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBFD57ED-6B39-49B2-A666-86D2833F3360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6E0FB9-7038-4C2C-9EF6-9CC453121CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6E0FB9-7038-4C2C-9EF6-9CC453121CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6E0FB9-7038-4C2C-9EF6-9CC453121CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6E0FB9-7038-4C2C-9EF6-9CC453121CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
