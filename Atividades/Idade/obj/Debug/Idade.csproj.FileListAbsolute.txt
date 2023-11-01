@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\bin\Debug\Idade.exe.config
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\bin\Debug\Idade.exe
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\bin\Debug\Idade.pdb
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\obj\Debug\Idade.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\obj\Debug\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\obj\Debug\Idade.exe
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Idade\obj\Debug\Idade.pdb

@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\obj\Debug\Temperatura.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Daniel\Desktop\ProjetoCSharp\Atividades\Temperatura\obj\Debug\Temperatura.pdb
